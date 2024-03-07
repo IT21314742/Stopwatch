@@ -4,4 +4,5 @@ let timer = null;
 
 function stopwatch(){
     seconds++;
+    if
 }
