@@ -3,5 +3,5 @@ let displayTime = document.getElementById("displayTime");
 let timer = null;
 
 function stopwatch(){
-    
+    seconds
 }
