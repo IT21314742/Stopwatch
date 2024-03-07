@@ -1,1 +1,1 @@
-let [seconds, miutes]
+let [seconds, minutes]
