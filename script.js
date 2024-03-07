@@ -1,1 +1,1 @@
-let [seconds, minutes, hours] = [0]
+let [seconds, minutes, hours] = [0,]
