@@ -4,5 +4,7 @@ let timer = null;
 
 function stopwatch(){
     seconds++;
-    if(seconds == 60){}
+    if(seconds == 60){
+        
+    }
 }
