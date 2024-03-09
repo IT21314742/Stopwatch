@@ -7,6 +7,8 @@ function stopwatch(){
     if(seconds == 60){
         seconds = 0;
         minutes++;
-        if(minutes == 60){}
+        if(minutes == 60){
+            
+        }
     }
 }
