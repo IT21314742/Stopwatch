@@ -13,5 +13,5 @@ function stopwatch(){
         }
     }
 
-    let h = hours 
+    let h = hours <
 }
