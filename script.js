@@ -21,5 +21,5 @@ function stopwatch(){
 }
 
 function watchStart(){
-    if(timer!== )
+    if(timer!== null)
 }
