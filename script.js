@@ -19,3 +19,4 @@ function stopwatch(){
 
     displayTime.innerHTML = h +":"+ m +":"+ s;
 }
+
