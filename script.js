@@ -17,5 +17,5 @@ function stopwatch(){
     let m = minutes < 10 ? "0" + minutes : minutes;
     let s = seconds < 10 ? "0" + seconds : seconds;
 
-    displayTime.innerHTML = h +":"+ m 
+    displayTime.innerHTML = h +":"+ m +
 }
