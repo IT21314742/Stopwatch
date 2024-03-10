@@ -20,4 +20,6 @@ function stopwatch(){
     displayTime.innerHTML = h +":"+ m +":"+ s;
 }
 
-function watchStart(){}
+function watchStart(){
+    
+}
