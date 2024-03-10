@@ -28,5 +28,5 @@ function watchStart() {
 }
 
 function watchStop(){
-    
+    clearInterval
 }
