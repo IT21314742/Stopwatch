@@ -30,4 +30,6 @@ function watchStart() {
 function watchStop(){
     clearInterval(timer)
 }
-function watchReset(){}
+function watchReset(){
+    
+}
