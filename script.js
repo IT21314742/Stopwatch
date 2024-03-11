@@ -32,5 +32,5 @@ function watchStop(){
 }
 function watchReset(){
     clearInterval(timer);
-    [seconds, minutes, ]
+    [seconds, minutes, hours]
 }
