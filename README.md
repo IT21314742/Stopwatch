@@ -4,4 +4,4 @@ Upgrade your web applications with a versatile Stopwatch developed using HTML, C
 
 Key Features:
   1. **Accurate Timing:** Utilize precise timing  functionality to track elapsed time down to milliseconds.
-  2. User-Friendly Interface:
+  2. **User-Friendly Interface:**
